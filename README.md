@@ -6,3 +6,8 @@ Dépot contenant les codes réalisés lors des TP du cours de Machine Learning.
 
 - Méthodes types bayes naïf
 - Arbres de décisions
+
+## TP2 (08/10/2025) : Classification de données
+
+- Séparateurs à vastes marges
+- Reconnaissance faciale
