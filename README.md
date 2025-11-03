@@ -11,3 +11,9 @@ Dépot contenant les codes réalisés lors des TP du cours de Machine Learning.
 
 - Séparateurs à vastes marges
 - Reconnaissance faciale
+
+## TP3 (03/11/2025) : Réseau de neurone
+
+- Perceptron learning algorithm
+- Réseau de neurones
+- Reconnaissance de chiffres manuscrits
