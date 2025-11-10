@@ -17,3 +17,7 @@ Dépot contenant les codes réalisés lors des TP du cours de Machine Learning.
 - Perceptron learning algorithm
 - Réseau de neurones
 - Reconnaissance de chiffres manuscrits
+
+## TP4 (10/11/2025) : Classification non-supervisée
+
+- KMeans Clustering
